@@ -19,7 +19,7 @@ I build clean, scalable, and user-focused software across web, mobile, and cloud
 - 🔐 Interested in **authentication security, RBAC, scalable architecture, and clean UI engineering**
 - ☁️ Exploring **cloud infrastructure, deployment workflows, and production-ready application design**
 - 🧠 I enjoy turning messy requirements into simple, maintainable software
-- 📫 Reach me at **[chanuprabodha903@gmail.com](mailto:chanuprabodha903@gmail.com)**
+- 📫 Reach me at **chanuprabodha903@gmail.com**
 
 ---
 
@@ -103,9 +103,7 @@ I build clean, scalable, and user-focused software across web, mobile, and cloud
 ### Let's Connect
 
 <p align="left">
-  <a href="mailto:chanuprabodha903@gmail.com">
-    <img src="https://img.shields.io/badge/Email-chanuprabodha903%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-  </a>
+  <img src="https://img.shields.io/badge/Email-chanuprabodha903%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   <a href="https://github.com/prabodha-fernando">
     <img src="https://img.shields.io/badge/GitHub-prabodha--fernando-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
